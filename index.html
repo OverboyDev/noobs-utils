@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Twitch Auth Redirect</title>
+</head>
+<body>
+  <script>
+    (function() {
+      console.log("🔄 Checking URL for Twitch token...");
+
+      // The Twitch OAuth response includes #access_token=... in the URL fragment.
+      const params = new URLSearchParams(window.location.hash.substring(1));
+      const token = params.get("access_token");
+
+      if (token) {
+        console.log("✅ Twitch Token Found:", token);
+
+        // Send the token back to the main game (the opener)
+        if (window.opener) {
+          window.opener.postMessage({ type: "TwitchAuth", token: token }, "*");
+          console.log("🔄 Sent token back to main game.");
+          // Close the popup after sending
+          window.close();
+        } else {
+          console.error("❌ No opener window found. Storing in localStorage as fallback.");
+          localStorage.setItem("twitch_token", token);
+        }
+      } else {
+        console.error("❌ No Twitch token found in URL.");
+      }
+    })();
+  </script>
+</body>
+</html>
