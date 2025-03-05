@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Twitch Redirect (Electron)</title>
+</head>
+<body>
+  <script>
+
+    // Grab the entire fragment (everything after the "#")
+    const fragment = window.location.hash; 
+    
+    if (fragment) {
+      // Now redirect to your custom protocol, e.g. myapp://auth
+      // so it becomes: myapp://auth#access_token=XYZ&scope=...
+      window.location.href = "myapp://auth" + fragment;
+    } else {
+      console.warn("No fragment found in URL. Possibly no token returned.");
+    }
+  </script>
+</body>
+</html>
