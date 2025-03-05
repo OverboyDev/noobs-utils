@@ -11,9 +11,9 @@
     const fragment = window.location.hash; 
     
     if (fragment) {
-      // Now redirect to your custom protocol, e.g. myapp://auth
-      // so it becomes: myapp://auth#access_token=XYZ&scope=...
-      window.location.href = "myapp://auth" + fragment;
+      // Now redirect to your custom protocol, e.g. noobsarecoming://auth
+      // so it becomes: noobsarecoming://auth#access_token=XYZ&scope=...
+      window.location.href = "noobsarecoming://auth" + fragment;
     } else {
       console.warn("No fragment found in URL. Possibly no token returned.");
     }
