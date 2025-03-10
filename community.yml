@@ -4,7 +4,7 @@ _Default:
 
 Platforms:
     Steam:
-        Wishlist: 5050
+        Wishlist: 5200
         MaxCCU: 59
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
@@ -92,7 +92,7 @@ QUESTS:
         Missions:
             Wishlist: 20000
         Unlocks:
-            Item: ???
+            Item: ????
 
     Watcher 20K:
         Img: twitch
