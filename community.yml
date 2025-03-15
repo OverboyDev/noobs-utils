@@ -4,17 +4,18 @@ _Default:
 
 Platforms:
     Steam:
-        Wishlist: 5200
+        Wishlist: 5400
+        Follow: 311
         MaxCCU: 59
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
-        Follow: 10169
+        Follow: 10192
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1146
+        Follow: 1151
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 493
+        Follow: 495
         MostWatched: 25000
         Link: https://www.youtube.com/@overboy
     Tiktok:
@@ -27,7 +28,7 @@ Platforms:
         Follow: 81
         Link: https://www.instagram.com/overboy.games/
     Discord:
-        Follow: 221
+        Follow: 229
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 5049
@@ -85,12 +86,19 @@ QUESTS:
         Missions:
             Wishlist: 10000
         Unlocks:
-            Item: ???
+            Item: Genie Lamp
 
     Wishlists 20K:
         Img: Wishlist
         Missions:
             Wishlist: 20000
+        Unlocks:
+            Item: ????
+
+    Steam Followers 1K:
+        Img: Steam_Follow
+        Missions:
+            Follower|Steam: 1000
         Unlocks:
             Item: ????
 
