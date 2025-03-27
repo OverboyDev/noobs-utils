@@ -4,7 +4,7 @@ _Default:
 
 Platforms:
     Steam:
-        Wishlist: 5823
+        Wishlist: 6050
         Follow: 311
         MaxCCU: 59
         Link: https://store.steampowered.com/app/2225960/
@@ -28,7 +28,7 @@ Platforms:
         Follow: 81
         Link: https://www.instagram.com/overboy.games/
     Discord:
-        Follow: 238
+        Follow: 212
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 5049
@@ -80,7 +80,6 @@ QUESTS:
         Unlocks:
             Item: Doxxer
 
-    #TODO
     Wishlists 10K:
         Img: Wishlist
         Missions:
