@@ -2,33 +2,35 @@ _Default:
     ImgPath: "[name].png"
     UnlockPrefix: [U_, U_Chara_]
 
+EnableFeature: true
+
 Platforms:
     Steam:
-        Wishlist: 7707
-        Follow: 448
+        Wishlist: 8580
+        Follow: 548
         MaxCCU: 98
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
-        Follow: 10300
+        Follow: 10400
         Link: https://overboy.itch.io/
     Twitter:
         Follow: 1151
         Link: https://x.com/OverboyYT
     Youtube:
         Follow: 513
-        MostWatched: 81000
+        MostWatched: 86000
         Link: https://www.youtube.com/@overboy
     Tiktok:
         Follow: 20
         Link: https://www.tiktok.com/@overboy_
     Bluesky:
-        Follow: 41
+        Follow: 49
         Link: https://bsky.app/profile/overboy-games.bsky.social
     Instagram:
         Follow: 81
         Link: https://www.instagram.com/overboy.games/
     Discord:
-        Follow: 313
+        Follow: 333
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 5049
