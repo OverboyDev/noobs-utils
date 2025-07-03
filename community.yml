@@ -6,8 +6,8 @@ EnableFeature: true
 
 Platforms:
     Steam:
-        Wishlist: 10353
-        Follow: 662
+        Wishlist: 11000
+        Follow: 720
         MaxCCU: 98
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
@@ -17,7 +17,7 @@ Platforms:
         Follow: 1169
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 531
+        Follow: 534
         MostWatched: 86000
         Link: https://www.youtube.com/@overboy
     Tiktok:
@@ -30,7 +30,7 @@ Platforms:
         Follow: 81
         Link: https://www.instagram.com/overboy.games/
     Discord:
-        Follow: 442
+        Follow: 450
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 5049
