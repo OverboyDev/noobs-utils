@@ -1,23 +1,23 @@
 _Default:
     ImgPath: "[name].png"
-    UnlockPrefix: [U_, U_Chara_]
+    UnlockPrefix: ["U_", "U_Chara_", ""]
 
 EnableFeature: true
 
 Platforms:
     Steam:
-        Wishlist: 11000
-        Follow: 720
-        MaxCCU: 98
+        Wishlist: 11500
+        Follow: 799
+        CCU: 98
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
         Follow: 10700
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1169
+        Follow: 1171
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 534
+        Follow: 538
         MostWatched: 86000
         Link: https://www.youtube.com/@overboy
     Tiktok:
@@ -30,7 +30,7 @@ Platforms:
         Follow: 81
         Link: https://www.instagram.com/overboy.games/
     Discord:
-        Follow: 450
+        Follow: 470
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 5049
@@ -83,6 +83,8 @@ QUESTS:
     #     Unlocks:
     #         Feature: Streamer Mode
 
+    #BOSS
+
     Watcher 5K:
         DONE: true
         Img: twitch
@@ -105,6 +107,27 @@ QUESTS:
         Unlocks:
             Item: ????
 
+    Steam CCU 1K:
+        Img: Steam_CCU
+        Missions:
+            CCU: 1000
+        Unlocks:
+            Item: Hero_Zug
+
+    # Steam CCU 5K:
+    #     Img: Steam_CCU
+    #     Missions:
+    #         CCU: 5000
+    #     Unlocks:
+    #         Item: Hero_Paloof
+
+    # Steam CCU 10K:
+    #     Img: Steam_CCU
+    #     Missions:
+    #         CCU: 10000
+    #     Unlocks:
+    #         Item: ????
+
     Watcher 20K:
         Img: twitch
         Missions:
@@ -124,7 +147,7 @@ QUESTS:
         Missions:
             Follower|Twitter: 10000
         Unlocks:
-            Item: Blue Griffin
+            Item: ???
 
     Youtube Video 100K:
         Img: Youtube_MostWatched
