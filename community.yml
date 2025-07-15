@@ -6,9 +6,10 @@ EnableFeature: true
 
 Platforms:
     Steam:
-        Wishlist: 11800
+        Wishlist: ???
         Follow: 930
         CCU: 98
+        Units: ???
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
         Follow: 10700
@@ -84,8 +85,6 @@ QUESTS:
     #     Unlocks:
     #         Feature: Streamer Mode
 
-    #BOSS
-
     Watcher 5K:
         DONE: true
         Img: twitch
@@ -94,10 +93,19 @@ QUESTS:
         Unlocks:
             Item: Doxxer
 
-    Steam Followers 1K:
+    #BOSS
+
+    Steam Players 10K:
+        Img: Steam_Units
+        Missions:
+            Steam_Units: 10000
+        Unlocks:
+            Item: Hero_Paloof
+
+    Steam Followers 10K:
         Img: Steam_Follow
         Missions:
-            Follower|Steam: 1000
+            Follower|Steam: 10000
         Unlocks:
             Item: Genie Lamp
 
