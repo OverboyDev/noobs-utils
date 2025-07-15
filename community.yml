@@ -7,7 +7,7 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: 11800
-        Follow: 863
+        Follow: 930
         CCU: 98
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
@@ -17,14 +17,14 @@ Platforms:
         Follow: 1231
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 543
+        Follow: 549
         MostWatched: 86000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 491
+        Follow: 522
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
-        Watcher: 5049
+        Watcher: 8634
         Link: https://www.twitch.tv/directory/category/noobs-are-coming
 
     Mailing:
@@ -94,19 +94,12 @@ QUESTS:
         Unlocks:
             Item: Doxxer
 
-    Wishlists 20K:
-        Img: Wishlist
-        Missions:
-            Wishlist: 20000
-        Unlocks:
-            Item: Genie Lamp
-
     Steam Followers 1K:
         Img: Steam_Follow
         Missions:
             Follower|Steam: 1000
         Unlocks:
-            Item: ????
+            Item: Genie Lamp
 
     Steam CCU 1K:
         Img: Steam_CCU
