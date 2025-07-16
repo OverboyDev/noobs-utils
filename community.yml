@@ -7,8 +7,8 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 930
-        CCU: 352
+        Follow: 1171
+        CCU: 431
         Units: ???
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
@@ -18,11 +18,11 @@ Platforms:
         Follow: 1231
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 555
+        Follow: 569
         MostWatched: 86000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 600
+        Follow: 622
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 8634
@@ -149,7 +149,7 @@ QUESTS:
         Missions:
             Follower|Twitter: 10000
         Unlocks:
-            Item: ???
+            Item: Blue Griffin
 
     Youtube Video 100K:
         Img: Youtube_MostWatched
@@ -163,7 +163,7 @@ QUESTS:
         Missions:
             Youtube_MostWatched: 1000000
         Unlocks:
-            Item: ???
+            Item: ????
 
     Youtube Subs 1K:
         Img: Youtube
