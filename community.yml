@@ -7,7 +7,7 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 1672
+        Follow: 1940
         CCU: 453
         Units: ???
         Link: https://store.steampowered.com/app/2225960/
@@ -15,14 +15,14 @@ Platforms:
         Follow: 10850
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1304
+        Follow: 1314
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 620
-        MostWatched: 86000
+        Follow: 641
+        MostWatched: 89000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 886
+        Follow: 1050
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 8634
@@ -43,6 +43,14 @@ Platforms:
 
 QUESTS:
     #DONE
+
+    Steam Players 10K:
+        DONE: true
+        Img: Steam_Units
+        Missions:
+            Steam_Units: 10000
+        Unlocks:
+            Item: Hero_Paloof
 
     Wishlists 10K:
         DONE: 22-06-2025
@@ -77,14 +85,6 @@ QUESTS:
         Unlocks:
             Item: Dead Bird
 
-    # Watcher 1K:
-    #     DONE: true
-    #     Img: twitch
-    #     Missions:
-    #         TwitchWatchers: 1000
-    #     Unlocks:
-    #         Feature: Streamer Mode
-
     Watcher 5K:
         DONE: true
         Img: twitch
@@ -93,14 +93,30 @@ QUESTS:
         Unlocks:
             Item: Doxxer
 
+    Discord 1K:
+        DONE: true
+        Img: Discord
+        Missions:
+            Discord: 1000
+        Unlocks:
+            Item: Discorde
+
+    # Watcher 1K:
+    #     DONE: true
+    #     Img: twitch
+    #     Missions:
+    #         TwitchWatchers: 1000
+    #     Unlocks:
+    #         Feature: Streamer Mode
+
     #BOSS
 
-    Steam Players 10K:
+    Steam Players 50K:
         Img: Steam_Units
         Missions:
-            Steam_Units: 10000
+            Steam_Units: 50000
         Unlocks:
-            Item: Hero_Paloof
+            Item: Naga
 
     Steam Followers 10K:
         Img: Steam_Follow
@@ -135,14 +151,14 @@ QUESTS:
         Missions:
             Twitch_Watchers: 20000
         Unlocks:
-            Item: ???
+            Item: Wep_Javelin_Moskito
 
-    Discord 1K:
+    Discord 10K:
         Img: Discord
         Missions:
-            Discord: 1000
+            Discord: 10000
         Unlocks:
-            Item: Discorde
+            Item: ???
 
     Twitter 10K:
         Img: Twitter
@@ -156,28 +172,28 @@ QUESTS:
         Missions:
             Youtube_MostWatched: 100000
         Unlocks:
-            Item: ???
+            Item: Attack Guarantee
 
     Youtube Video 1M:
         Img: Youtube_MostWatched
         Missions:
             Youtube_MostWatched: 1000000
         Unlocks:
-            Item: ????
+            Item: Bunzilla
 
     Youtube Subs 1K:
         Img: Youtube
         Missions:
             Subscriber|Youtube: 1000
         Unlocks:
-            Item: ???
+            Item: Wep_Sniper_Golden
 
     Youtube Subs 10K:
         Img: Youtube
         Missions:
             Subscriber|Youtube: 10000
         Unlocks:
-            Item: ???
+            Item: Wep_Wand_Bone
 
     # Bluesky 5K:
     #     Img: Bluesky
@@ -191,4 +207,4 @@ QUESTS:
         Missions:
             Follower|Itch.io: 20000
         Unlocks:
-            Item: ???
+            Item: Wep_Sword_Puzzle
