@@ -7,18 +7,18 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 1940
+        Follow: 2006
         CCU: 453
         Units: ???
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
-        Follow: 10850
+        Follow: 10900
         Link: https://overboy.itch.io/
     Twitter:
         Follow: 1314
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 641
+        Follow: 655
         MostWatched: 89000
         Link: https://www.youtube.com/@overboy
     Discord:
@@ -186,7 +186,7 @@ QUESTS:
         Missions:
             Subscriber|Youtube: 1000
         Unlocks:
-            Item: Wep_Sniper_Golden
+            Item: ???
 
     Youtube Subs 10K:
         Img: Youtube
