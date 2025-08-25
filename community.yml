@@ -7,22 +7,22 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 2006
+        Follow: 2600
         CCU: 453
-        Units: ???
+        Units: 24500
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
-        Follow: 10900
+        Follow: 11000
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1314
+        Follow: 1340
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 655
-        MostWatched: 89000
+        Follow: 725
+        MostWatched: 206000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 1050
+        Follow: 1336
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 8634
@@ -43,6 +43,14 @@ Platforms:
 
 QUESTS:
     #DONE
+
+    Youtube Video 100K:
+        DONE: true
+        Img: Youtube_MostWatched
+        Missions:
+            Youtube_MostWatched: 100000
+        Unlocks:
+            Item: Attack Guarantee
 
     Steam Players 10K:
         DONE: true
@@ -111,6 +119,13 @@ QUESTS:
 
     #BOSS
 
+    Steam Players 25K:
+        Img: Steam_Units
+        Missions:
+            Steam_Units: 25000
+        Unlocks:
+            Item: Healthvestment
+
     Steam Players 50K:
         Img: Steam_Units
         Missions:
@@ -158,7 +173,7 @@ QUESTS:
         Missions:
             Discord: 10000
         Unlocks:
-            Item: ???
+            Item: ????
 
     Twitter 10K:
         Img: Twitter
@@ -166,13 +181,6 @@ QUESTS:
             Follower|Twitter: 10000
         Unlocks:
             Item: Blue Griffin
-
-    Youtube Video 100K:
-        Img: Youtube_MostWatched
-        Missions:
-            Youtube_MostWatched: 100000
-        Unlocks:
-            Item: Attack Guarantee
 
     Youtube Video 1M:
         Img: Youtube_MostWatched
@@ -186,7 +194,7 @@ QUESTS:
         Missions:
             Subscriber|Youtube: 1000
         Unlocks:
-            Item: ???
+            Item: Grand Cru
 
     Youtube Subs 10K:
         Img: Youtube
