@@ -7,22 +7,22 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 2600
+        Follow: 2732
         CCU: 453
-        Units: 24500
+        Units: ???
         Link: https://store.steampowered.com/app/2225960/
     Itch.io:
         Follow: 11000
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1340
+        Follow: 1345
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 725
+        Follow: 744
         MostWatched: 206000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 1336
+        Follow: 1413
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 8634
@@ -43,6 +43,14 @@ Platforms:
 
 QUESTS:
     #DONE
+
+    Steam Players 25K:
+        DONE: true
+        Img: Steam_Units
+        Missions:
+            Steam_Units: 25000
+        Unlocks:
+            Item: Healthvestment
 
     Youtube Video 100K:
         DONE: true
@@ -118,13 +126,6 @@ QUESTS:
     #         Feature: Streamer Mode
 
     #BOSS
-
-    Steam Players 25K:
-        Img: Steam_Units
-        Missions:
-            Steam_Units: 25000
-        Unlocks:
-            Item: Healthvestment
 
     Steam Players 50K:
         Img: Steam_Units
