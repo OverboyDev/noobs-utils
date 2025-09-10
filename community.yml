@@ -7,7 +7,7 @@ EnableFeature: true
 Platforms:
     Steam:
         Wishlist: ???
-        Follow: 2732
+        Follow: 2864
         CCU: 453
         Units: ???
         Link: https://store.steampowered.com/app/2225960/
@@ -15,14 +15,14 @@ Platforms:
         Follow: 11000
         Link: https://overboy.itch.io/
     Twitter:
-        Follow: 1345
+        Follow: 1353
         Link: https://x.com/OverboyYT
     Youtube:
-        Follow: 744
-        MostWatched: 206000
+        Follow: 779
+        MostWatched: 219000
         Link: https://www.youtube.com/@overboy
     Discord:
-        Follow: 1413
+        Follow: 1527
         Link: https://discord.com/invite/wMK34Z3RMU
     Twitch:
         Watcher: 8634
@@ -174,7 +174,7 @@ QUESTS:
         Missions:
             Discord: 10000
         Unlocks:
-            Item: ????
+            Item: Doomshell
 
     Twitter 10K:
         Img: Twitter
